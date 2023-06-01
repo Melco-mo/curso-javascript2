@@ -4,6 +4,8 @@ let boleano = true;
 console.log(nombre, numeros, boleano);
 */
 
+/*OPERADORES ARITMETICA
+
 let numero1 = 10;
 let numero2 = 20;
 let numero3 = 30;
@@ -17,3 +19,6 @@ console.log('resultado: ', suma);
 console.log('resultado: ', resta);
 console.log('resultado: ', multiplicacion);
 console.log('resultado: ', division, 'resultado: ', division);
+*/
+
+  
